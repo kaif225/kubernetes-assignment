@@ -1,4 +1,4 @@
-To Successfully complete this assignment using the following steps
+To Successfully complete this assignment the use the following steps.
 1. Created a deployment.yaml, service.yaml, hpa.yaml files
 2.  then applied all the files using the commands
     -- kubectl apply -f deployment.yaml
